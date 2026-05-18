@@ -15,13 +15,14 @@
   <a href="https://www.webofscience.com/wos/author/record/PCS-8725-2025"><img src="https://img.shields.io/badge/Web%20of%20Science-000000?style=for-the-badge&logo=clarivate&logoColor=white"/></a>
   <a href="https://scholar.google.com/citations?user=HCVsXyUAAAAJ&hl=es"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
   <a href="mailto:ruben.morante.gonzalez@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://rubenmorante.github.io"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a **PhD in Artificial Intelligence** and researcher at **Universidad Rey Juan Carlos (URJC)**, member of the [GRAFO](https://grafo.etsii.urjc.es/) research group (*Group for Research in Algorithms For Optimization*). Currently working as **AI Research Scientist at [Waad](https://www.wa-ad.com)**, applying Data Science, Machine Learning, LLMs and combinatorial optimisation to real-world problems.
+I'm a **PhD in Artificial Intelligence** and researcher at **Universidad Rey Juan Carlos (URJC)**, member of the [GRAFO](https://grafo.etsii.urjc.es/) research group (*Group for Research in Algorithms For Optimization*). Currently working as **Data Scientist at [Waad](https://www.wa-ad.com)**, applying Data Science, Machine Learning, LLMs and combinatorial optimisation to real-world problems.
 
 My work sits at the intersection of **Operations Research** and **Artificial Intelligence**:
 - 🚚 **Vehicle Routing & Logistics** — metaheuristic algorithms for real-world VRP and TSP variants
