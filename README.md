@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.r2agency.ai/"><img src="https://img.shields.io/badge/R2%20AI%20Agency-111827?style=for-the-badge&logo=rocket&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/rub%C3%A9n-morante-gonz%C3%A1lez-04631868"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://orcid.org/0000-0003-2870-2293"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
   <a href="https://dblp.org/pid/385/1668.html"><img src="https://img.shields.io/badge/DBLP-004F9F?style=for-the-badge&logo=dblp&logoColor=white"/></a>
@@ -36,9 +35,10 @@ I completed my PhD (2021–2025) at URJC in the *Doctoral Programme in Informati
 
 ---
 
-## 📱 Redes Sociales — R2 AI Agency
+## 📱 R2 AI Agency
 
 <p align="center">
+  <a href="https://www.r2agency.ai/"><img src="https://img.shields.io/badge/R2%20AI%20Agency-111827?style=for-the-badge&logo=rocket&logoColor=white"/></a>
   <a href="https://www.linkedin.com/company/r2-ai-agency/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/profile.php?id=61590473979114"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://x.com/R2AIAGENCY"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
