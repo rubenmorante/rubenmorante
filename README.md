@@ -2,10 +2,11 @@
 
 <p align="center">
   <em>PhD in Artificial Intelligence · Universidad Rey Juan Carlos</em><br/>
-  <strong>AI Research Scientist · Development & Optimisation Engineer · Associate Professor</strong>
+  <strong>AI Research Scientist · CEO @ R2 AI Agency · Development & Optimisation Engineer · Associate Professor</strong>
 </p>
 
 <p align="center">
+  <a href="https://www.r2agency.ai/"><img src="https://img.shields.io/badge/R2%20AI%20Agency-111827?style=for-the-badge&logo=rocket&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/rub%C3%A9n-morante-gonz%C3%A1lez-04631868"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://orcid.org/0000-0003-2870-2293"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
   <a href="https://dblp.org/pid/385/1668.html"><img src="https://img.shields.io/badge/DBLP-004F9F?style=for-the-badge&logo=dblp&logoColor=white"/></a>
@@ -22,15 +23,28 @@
 
 ## 🧠 About Me
 
-I'm a **PhD in Artificial Intelligence** and researcher at **Universidad Rey Juan Carlos (URJC)**, member of the [GRAFO](https://grafo.etsii.urjc.es/) research group (*Group for Research in Algorithms For Optimization*). Currently working as **Data Scientist at [Waad](https://www.wa-ad.com)**, applying Data Science, Machine Learning, LLMs and combinatorial optimisation to real-world problems.
+I'm a **PhD in Artificial Intelligence** and researcher at **Universidad Rey Juan Carlos (URJC)**, member of the [GRAFO](https://grafo.etsii.urjc.es/) research group (*Group for Research in Algorithms For Optimization*). Currently working as **Data Scientist at [Waad](https://www.wa-ad.com)**, applying Data Science, Machine Learning, LLMs and combinatorial optimisation to real-world problems. I'm also **CEO of [R2 AI Agency](https://www.r2agency.ai/)**, a company focused on AI-driven automations for businesses.
 
 My work sits at the intersection of **Operations Research** and **Artificial Intelligence**:
 - 🚚 **Vehicle Routing & Logistics** — metaheuristic algorithms for real-world VRP and TSP variants
 - 🔍 **Metaheuristics & Optimisation** — VNS, local search, and nature-inspired algorithms
 - 🤖 **Machine Learning & LLMs** — applied AI for industry and research
+- ⚙️ **AI Automation** — building automation solutions for businesses at R2 AI Agency
 - ☁️ **Cloud Engineering** — design and deployment of scalable applications
 
 I completed my PhD (2021–2025) at URJC in the *Doctoral Programme in Information and Communications Technologies*, with research focused on solving multi-objective routing problems in the logistics sector.
+
+---
+
+## 📱 Redes Sociales — R2 AI Agency
+
+<p align="center">
+  <a href="https://www.linkedin.com/company/r2-ai-agency/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=61590473979114"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://x.com/R2AIAGENCY"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.instagram.com/r2aiagency_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.tiktok.com/@r2.ai.agency"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+</p>
 
 ---
 
@@ -106,6 +120,7 @@ I completed my PhD (2021–2025) at URJC in the *Doctoral Programme in Informati
 
 | Period | Role | Organisation |
 |--------|------|--------------|
+| 2026 – Present | CEO | **[R2 AI Agency](https://www.r2agency.ai/)** |
 | 2026 – Present | PhD in AI · Data Science & Optimisation | **Waad** |
 | 2023 – 2025 | Associate Professor & Technical Research Staff | **Universidad Rey Juan Carlos** |
 | 2021 – 2024 | Development & Optimisation Engineer | **oga.ai** |
@@ -138,7 +153,9 @@ I completed my PhD (2021–2025) at URJC in the *Doctoral Programme in Informati
 
 Feel free to reach out for collaborations in **optimisation**, **metaheuristics**, **machine learning** or **AI research**:
 
-📧 [ruben.morante.gonzalez@outlook.com](mailto:ruben.morante.gonzalez@outlook.com) · 🌐 [rubenmorante.github.io](https://rubenmorante.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/rub%C3%A9n-morante-gonz%C3%A1lez-04631868)
+📧 [ruben.morante.gonzalez@outlook.com](mailto:ruben.morante.gonzalez@outlook.com) · 🌐 [rubenmorante.github.io](https://rubenmorante.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/rub%C3%A9n-morante-gonz%C3%A1lez-04631868) · 📘 [Facebook](https://www.facebook.com/profile.php?id=61590193726333) · 📷 [Instagram](https://www.instagram.com/rubenmg321/)
+
+For AI automation projects at R2 AI Agency: 📧 [ruben.morante@r2agency.ai](mailto:ruben.morante@r2agency.ai) · 🌐 [r2agency.ai](https://www.r2agency.ai/)
 
 ---
 
